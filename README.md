@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nizhang, an embedded software engineer in the automotive insdustry
+- 👋 Hi, I’m @nizhang, an embedded software engineer in the automotive industry
 - 👀 I’m interested in embedded software design, C programming
 - 🌱 I’m currently learning embedded software designing and coding in the linux environment. 
 - 💞️ I’m looking to collaborate on any project that can gain experience in embedded system design in the linux environment. 
